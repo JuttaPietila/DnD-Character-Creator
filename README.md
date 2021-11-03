@@ -2,7 +2,7 @@
 # author: Jutta Pietilä
 A Character Creator for the fifth edition of the tabletop role-playing game, Dungeons and Dragons 
 
-A small application I made for practicing the use of Java Swing and NeatBeans
+A small application I made for practicing the use of Java Swing and NetBeans
 
 A character creation application for the fifth edition of the tabletop role-playing game, Dungeons and Dragons. 
 The application is used as a base for users to create their own D&D character, or multiple characters. 
